@@ -1,0 +1,14 @@
+alembic
+asyncpg
+asyncpraw
+praw
+openai
+python-dotenv
+flask
+fastapi
+fastapi-users[sqlalchemy,oauth]
+psycopg2-binary
+uvicorn
+pydantic
+pydantic-settings
+SQLAlchemy
